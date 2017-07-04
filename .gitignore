@@ -1,0 +1,4 @@
+.DS_Store
+.byebug_history
+/lib/freedom.js
+/lib/freedom.js.map
